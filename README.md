@@ -15,7 +15,7 @@ AI木曜会 Claude Code ハンズオン（3/11・3/16）で使うデモリポジ
 ### 1. このリポジトリをクローン
 
 ```bash
-git clone https://github.com/michikusa-ai/claude-code-workspace-demo.git
+git clone https://github.com/Akane2block/claude-code-workspace-demo.git
 cd claude-code-workspace-demo
 ```
 
